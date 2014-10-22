@@ -1,0 +1,41 @@
+{
+  "name": "svd-image-tool",
+  "version": "0.0.1",
+  "author": {
+    "name": "Ben Burwell",
+    "email": "hi@benburwell.com"
+  },
+  "maintainers": [
+    {
+      "name": "Ben Burwell",
+      "email": "hi@benburwell.com",
+      "url": "http://www.benburwell.com/"
+    }
+  ],
+  "description": "Exploration of Singular Value Decomposition with images",
+  "tags": [
+    "svd",
+    "singular value decomposition",
+    "math",
+    "linear algebra"
+  ],
+  "keywords": [
+    "svd",
+    "singular value decomposition",
+    "math",
+    "linear algebra"
+  ],
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benburwell/svd-image-tool.git"
+  },
+  "bugs": {
+    "url": "https://github.com/benburwell/svd-image-tool/issues"
+  },
+  "engines": {
+    "node": ">=0.10"
+  },
+  "readmeFilename": "README.md",
+  "homepage": "https://github.com/benburwell/svd-image-tool"
+}
